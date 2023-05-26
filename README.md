@@ -1,4 +1,4 @@
-## Writeopia || Discover, Create, and Inspire with our Blogging Platform Writeopia
+## Writeopia || Discover, Create, and Inspire with our Blogging Platform
 
 <p align="center">
 <img alt="GIF" src="https://github.com/krishdu/Writeopia/blob/master/writeopia-gif-v1.gif?raw=true" width="800" height="400"/>
